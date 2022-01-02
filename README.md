@@ -7,3 +7,4 @@ Repo contains two parts:
 
 All has been running successfully on MacOS Monterey with Apple M1 (GPU used OK)
 
+![alt COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data](https://github.com/dfollereau/deep-learning-facemask/blob/main/plot.png)
