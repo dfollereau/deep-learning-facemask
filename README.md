@@ -8,3 +8,4 @@ Repo contains two parts:
 All has been running successfully on MacOS Monterey with Apple M1 (GPU used OK)
 
 ![face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data](./plot.png)
+![alt Demos](./img-demo.png)
