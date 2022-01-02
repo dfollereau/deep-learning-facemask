@@ -1,4 +1,6 @@
 # deep-learning-facemask
+
+Covid-19 Deep Learning App 
 Tensorflow Keras and OpenCV to train neural network and detect mask or not with a live camera
 
 Repo contains two parts:
